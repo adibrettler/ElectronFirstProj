@@ -5,5 +5,5 @@ app.whenReady().then(() => {
     width: 800,
     height: 600,
   });
-  win.loadFile("index.html");
+  win.loadFile("chartExample.html");
 });
