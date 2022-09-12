@@ -1,0 +1,23 @@
+{
+  "name": "electronfirstproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adibrettler/ElectronFirstProj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adibrettler/ElectronFirstProj/issues"
+  },
+  "homepage": "https://github.com/adibrettler/ElectronFirstProj#readme",
+  "dependencies": {
+    "electron": "^20.1.3"
+  }
+}
